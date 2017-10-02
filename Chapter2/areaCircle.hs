@@ -1,0 +1,1 @@
+areaCircle  x = pi * x * x
